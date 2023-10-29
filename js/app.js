@@ -2,8 +2,8 @@
 
 $(function () {
   var width = 500;
-  var animationSpeed = 4000;
-  var pause = 8000;
+  var animationSpeed = 2000;
+  var pause = 5000;
 
   setTimeout(function () {
     $("#slider .slides").animate(
